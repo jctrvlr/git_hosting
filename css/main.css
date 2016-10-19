@@ -1,4 +1,7 @@
 #nav ul {
- list-type: none;
-
+	display: block;
+	text-align: center;
+}
+#nav li {
+	display: inline-block;
 }
